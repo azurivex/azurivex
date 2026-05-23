@@ -19,3 +19,7 @@ I use Linux and I want to learn programming and open-source workflows through sm
 - *And more off-topic interests listed on my website.*
 
 My goal here is to develop a solid understanding of computer systems and programming and to contribute to open-source projects. I believe it is especially important in times like these to promote open-source projects and defend the internet from money-hungry corporations and control. I am happy and grateful if you want to help me achieve my goals.
+
+<div align="center">
+<img src="https://ghstats.dev/api/card?username=Azurivex&theme=catppuccin&border_radius=17&size=compact" alt="GitHub Stats Card" />
+</div>
