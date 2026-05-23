@@ -1,7 +1,7 @@
 # Hello, I'm Azurivex
 ![Country](https://img.shields.io/badge/Central_Europe-Germany-black?style=for-the-badge&logo=europeanunion&labelColor=%23003399)
 ![Operating System](https://img.shields.io/badge/Linux-CachyOS-%2300AA88?style=for-the-badge&logo=cachyos&logoSize=auto)
-![Open Source](https://img.shields.io/badge/Open%20Source-Early_Contributor-darkgreen?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-New_Contributor-darkgreen?style=for-the-badge)
 
 I use Linux and I want to learn programming and open-source workflows through small and practical contributions first.
 
