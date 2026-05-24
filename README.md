@@ -6,7 +6,7 @@
 I use Linux and I want to learn programming and open-source workflows through small and practical contributions first.
 
 **I want to learn**
-- C++ *(+ JS and Python eventually)*
+- C++ *( + JS and Python eventually)*
 - Open-source workflows
 - More Linux internals
 - More about computers, networking, and the internet
